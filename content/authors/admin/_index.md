@@ -60,10 +60,10 @@ social:
 
 I am a postdoctoral researcher at the Argonne National Laboratory, the principal developer for the Toolkit for Advanced 
 Optimization (TAO), and an active contributor to the [PETSc](https://www.mcs.anl.gov/petsc/) library. My current 
-work is focused on on at developing gradient-based optimization algorithms for large-scale problems in 
-application areas such as machine learning, plasma physics and geophysics.
+work is focused on developing gradient-based optimization algorithms for large-scale problems in machine learning, 
+plasma physics and geophysics.
 
-My research interests lie in tackling the mathematical, algorithmic and software design challenges in proliferating the 
-use of numerical optimization techniques in scientific research and industrial design, with emphasis on high 
-performance computing applications and efficient treatment of nonlinear constraints.
+My research efforts try to tackle the mathematical, algorithmic and software design challenges in promoting the use of 
+numerical optimization techniques in scientific research and industrial design, with emphasis on high performance 
+computing applications and efficient treatment of nonlinear constraints.
 

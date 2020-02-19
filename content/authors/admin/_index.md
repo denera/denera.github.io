@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alp Dener
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Appointee
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Argonne National Laboratory
+  url: "https://www.anl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in tackling the mathematical, algorithmic and software design challenges in proliferating the use of numerical optimization techniques in engineering research and industrial design.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Numerical Optimization
+- Simulation-based Design
+- High Performance Computing
+- Open Source Software
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Aeronautical Engineering, Ph.D.
+    institution: Rensselaer Polytechnic Institute
+    year: 2017
+  - course: Mechanical Engineering, B.S.
+    institution: University of Maryland, Baltimore County
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,32 +42,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:adener@anl.gov'  # For a direct email link, use "mailto:test@example.org".
+- icon: gitlab
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://gitlab.com/adener
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=iPoGD0AAAAAJ&hl=en
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://www.linkedin.com/in/denera/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alp Dener is a postdoctoral researcher at the Argonne National Laboratory, the principal developer for the Toolkit for 
+Advanced Optimization (TAO), and an active contributor to the [PETSc](https://www.mcs.anl.gov/petsc/) library. His 
+current research efforts are directed at developing gradient-based optimization algorithms for large-scale problems in 
+application areas such as machine learning, plasma physics and geophysics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alp's broad research interests lie in tackling the mathematical, algorithmic and software design challenges in 
+proliferating the use of numerical optimization techniques in scientific research and industrial design, with 
+specific focus on high-performance computing applications and efficient treatment of nonlinear constraints.
+

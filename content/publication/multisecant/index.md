@@ -7,7 +7,7 @@ authors: [
   "Pengfei Meng",
   "Alp Dener"
 ]
-date: 2020-02-14
+date: 2017-09-20
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-02-19T13:29:56-06:00
@@ -19,8 +19,8 @@ publishDate: 2020-02-19T13:29:56-06:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Optimization and Engineering (submitted)"
-publication_short: "Opt and Eng"
+publication: "arXiv preprint"
+publication_short: "arXiv"
 
 abstract: "We present a derivative-based algorithm for nonlinearly constrained optimization problems that is tolerant of inaccuracies in the data. The algorithm solves a semi-smooth set of nonlinear equations that are equivalent to the first-order optimality conditions, and it is matrix-free in the sense that it does not require the explicit Lagrangian Hessian or Jacobian of the constraints. The solution method is quasi-Newton, but rather than approximating only the Hessian or constraint Jacobian, the Jacobian of the entire nonlinear set of equations is approximated using a multisecant method. We show how preconditioning can be incorporated into the multisecant update in order to improve the performance of the method. For nonconvex problems, we propose a simple modification of the secant conditions to regularize the Hessian. Numerical experiments suggest that the algorithm is a promising alternative to conventional gradient-based algorithms, particularly when errors are present in the data.
 "

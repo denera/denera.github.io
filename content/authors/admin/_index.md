@@ -21,10 +21,10 @@ organizations:
 bio: My research interests are in tackling the mathematical, algorithmic and software design challenges in proliferating the use of numerical optimization techniques in engineering research and industrial design.
 
 interests:
-- Numerical Optimization
-- Simulation-based Design
+- PDE-Constrained Optimization
+- Scientific Machine Learning
 - High Performance Computing
-- Open Source Software
+- Reusable Scientific Software
 
 education:
   courses:
@@ -59,9 +59,9 @@ social:
 ---
 
 I am a postdoctoral researcher at the Argonne National Laboratory, the principal developer for the Toolkit for Advanced 
-Optimization (TAO), and an active contributor to the [PETSc](https://www.mcs.anl.gov/petsc/) library. My current 
-work is focused on developing gradient-based optimization algorithms for large-scale problems in machine learning, 
-plasma physics and geophysics.
+Optimization (TAO), and an active contributor to the [PETSc](https://www.mcs.anl.gov/petsc/) library. My current work 
+is focused on developing gradient-based optimization algorithms for large-scale problems in scientific discovery and 
+machine learning.
 
 My research interests lie in the mathematical, algorithmic and software design challenges in promoting the use of 
 numerical optimization techniques in scientific research and industrial design, with emphasis on high performance 

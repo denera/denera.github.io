@@ -21,7 +21,7 @@ date_end: 2021-03-01T16:55:00-08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-02-27T14:50:10-08:00
+publishDate: 2021-02-26T14:50:10-08:00
 
 authors: [
   "Alp Dener",

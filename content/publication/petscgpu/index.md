@@ -1,13 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Error-tolerant Multisecant Method for Nonlinearly Constrained Optimization"
+title: "Toward Performance-Portable PETSc for GPU-based Exascale Systems"
 authors: [
-  "Jason E. Hicken",
-  "Pengfei Meng",
-  "Alp Dener"
+  "Richard Tran Mills", "Mark F. Adams", "Satish Balay", "Jed Brown", "Alp Dener", "Matthew Knepley", "Scott E. Kruger", "Hannah Morgan", "Todd Munson", "Karl Rupp", "Barry F. Smith", "Stefano Zampini", "Hong Zhang", "Junchao Zhang"
 ]
-date: 2017-09-20
+date: 2020-11-02
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-02-19T13:29:56-06:00
@@ -22,7 +20,7 @@ publication_types: ["3"]
 publication: "arXiv preprint"
 publication_short: "arXiv"
 
-abstract: "We present a derivative-based algorithm for nonlinearly constrained optimization problems that is tolerant of inaccuracies in the data. The algorithm solves a semi-smooth set of nonlinear equations that are equivalent to the first-order optimality conditions, and it is matrix-free in the sense that it does not require the explicit Lagrangian Hessian or Jacobian of the constraints. The solution method is quasi-Newton, but rather than approximating only the Hessian or constraint Jacobian, the Jacobian of the entire nonlinear set of equations is approximated using a multisecant method. We show how preconditioning can be incorporated into the multisecant update in order to improve the performance of the method. For nonconvex problems, we propose a simple modification of the secant conditions to regularize the Hessian. Numerical experiments suggest that the algorithm is a promising alternative to conventional gradient-based algorithms, particularly when errors are present in the data.
+abstract: "The Portable Extensible Toolkit for Scientific computation (PETSc) library delivers scalable solvers for nonlinear time-dependent differential and algebraic equations and for numerical optimization.The PETSc design for performance portability addresses fundamental GPU accelerator challenges and stresses flexibility and extensibility by separating the programming model used by the application from that used by the library, and it enables application developers to use their preferred programming model, such as Kokkos, RAJA, SYCL, HIP, CUDA, or OpenCL, on upcoming exascale systems. A blueprint for using GPUs from PETSc-based codes is provided, and case studies emphasize the flexibility and high performance achieved on current GPU-based systems.
 "
 
 # Summary. An optional shortened abstract.
@@ -40,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: files/pubs/hicken2017multisecant.pdf
+url_pdf: files/pubs/mills2020petscgpu.pdf
 url_code:
 url_dataset:
 url_poster:

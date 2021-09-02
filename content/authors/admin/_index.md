@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Appointee
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,13 @@ organizations:
   url: "https://www.anl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in tackling the mathematical, algorithmic and software design challenges in proliferating the use of numerical optimization techniques in engineering research and industrial design.
+bio: Early-career researcher in large-scale numerical optimization methods with applications in scientific machine learning, plasma physics, Earth systems modeling, and more.
 
 interests:
-- PDE-Constrained Optimization
-- Scientific Machine Learning
-- High Performance Computing
-- Reusable Scientific Software
+- Large-scale Nonlinear Optimization Algorithms
+- Artificial Intelligence & Machine Learning
+- Physics-informed Neural Networks
+- Scientific & Numerical Software Development
 
 education:
   courses:
@@ -58,12 +58,18 @@ social:
 
 ---
 
-I am a postdoctoral researcher at the Argonne National Laboratory, the principal developer for the Toolkit for Advanced 
-Optimization (TAO), and an active contributor to the [PETSc](https://www.mcs.anl.gov/petsc/) library. My current work 
-is focused on developing gradient-based optimization algorithms for large-scale problems in scientific discovery and 
-machine learning.
+Hi! I am an early-career scientist at Argonne National Laboratory where I research large-scale optimization algorithms
+with a focus on efficient treatment of nonlinear constraints. I am a member of the core development team for
+[PETSc/TAO](https://petsc.org), one of the premiere numerical libraries in the Department of Energy software portfolio
+with thousands of user-groups in and out of the national laboratory system. In this capacity, I serve as the principal
+maintainer for optimization solvers in PETSc and help prepare the library for next-generation exascale supercomputer
+architectures. I also make contributions in Krylov solvers, time integrators, globalization methods and other numerical
+linear algebra commonly used in gradient-based optimization.
 
-My research interests lie in the mathematical, algorithmic and software design challenges in promoting the use of 
-numerical optimization techniques in scientific research and industrial design, with emphasis on high performance 
-computing applications and efficient treatment of nonlinear constraints.
+I have recently extended my research into stochastic optimization methods in machine learning, specifically in the
+development of novel *constrained* optimization methods for training deep neural networks under nonlinear or 
+physics-based constraints on network weights and outputs. I also collaborate with domain experts on challenging
+applications in plasma physics, Earth systems modeling, and more. In the future, I hope to explore new optimization and
+AI/ML applications in areas such as aviation and aerospace, renewable energy, drug discovery, autonomous vehicle
+systems, and augmented reality.
 

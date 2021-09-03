@@ -21,9 +21,9 @@ organizations:
 bio: Early-career researcher in large-scale numerical optimization methods with applications in scientific machine learning, plasma physics, Earth systems modeling, and more.
 
 interests:
-- Large-scale Nonlinear Optimization Algorithms
+- Large-scale Optimization Algorithms
 - Artificial Intelligence & Machine Learning
-- Physics-informed Neural Networks
+- Physics-Informed Neural Networks
 - Scientific & Numerical Software Development
 
 education:
@@ -58,18 +58,6 @@ social:
 
 ---
 
-Hi! I am an early-career scientist at Argonne National Laboratory where I research large-scale optimization algorithms
-with a focus on efficient treatment of nonlinear constraints. I am a member of the core development team for
-[PETSc/TAO](https://petsc.org), one of the premiere numerical libraries in the Department of Energy software portfolio
-with thousands of user-groups in and out of the national laboratory system. In this capacity, I serve as the principal
-maintainer for optimization solvers in PETSc and help prepare the library for next-generation exascale supercomputer
-architectures. I also make contributions in Krylov solvers, time integrators, globalization methods and other numerical
-linear algebra commonly used in gradient-based optimization.
+I am a computational scientist specializing in large-scale nonlinear and constrained optimization algorithms, and I collaborate with domain experts on challenging problems in scientific machine learning, plasma physics, Earth systems modeling and more. I also maintain the Toolkit for Advanced Optimization (TAO) package in [PETSc/TAO](https://petsc.org) and help prepare the library for upcoming exascale computing architectures.
 
-I have recently extended my research into stochastic optimization methods in machine learning, specifically in the
-development of novel *constrained* optimization methods for training deep neural networks under nonlinear or 
-physics-based constraints on network weights and outputs. I also collaborate with domain experts on challenging
-applications in plasma physics, Earth systems modeling, and more. In the future, I hope to explore new optimization and
-AI/ML applications in areas such as aviation and aerospace, renewable energy, drug discovery, autonomous vehicle
-systems, and augmented reality.
-
+I have recently began to develop stochastic optimization methods in machine learning, specifically for training deep neural networks under nonlinear constraints on network weights and/or outputs. In the future, I hope to apply my research to solve challenging AI/ML problems in aviation and aerospace, renewable energy, climate science, supply chain planning, automated vehicle systems, augmented reality and more.

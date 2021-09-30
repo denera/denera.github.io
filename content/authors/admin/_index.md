@@ -18,14 +18,13 @@ organizations:
   url: "https://www.anl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Early-career computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications
-in artificial intelligence, machine learning, simulation-based design and scientific discovery.
+bio: Early-career computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications in artificial intelligence, machine learning, simulation-based design and scientific discovery.
 
 interests:
-- Large-scale Optimization Methods
-- Artificial Intelligence & Machine Learning
-- Physics-Informed Neural Networks
-- High-Performance Numerical Software Development
+- Simulation-based Optimization
+- AI & Machine Learning
+- Physics-Informed Neural Nets
+- High-Performance Computing
 
 education:
   courses:
@@ -59,8 +58,4 @@ social:
 
 ---
 
-I am a computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications
-in artificial intelligence, machine learning, simulation-based design and scientific discovery. I am also a member of the core development
-team for [PETSc/TAO](https://petsc.org), one of the premiere numerical libraries in the US Department of Energy research software portfolio.
-In this capacity, I develop and maintain parallel implementations of optimization algorithms using test-based development and CI/CD workflows
-on heterogeneous high-performance computing systems.
+I am a computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications in artificial intelligence, machine learning, simulation-based design and scientific discovery. I am also a member of the core development team for [PETSc/TAO](https://petsc.org), one of the premiere numerical libraries in the US Department of Energy research software portfolio. In this capacity, I develop and maintain parallel implementations of optimization algorithms using test-based development and CI/CD workflows on heterogeneous high-performance computing systems.

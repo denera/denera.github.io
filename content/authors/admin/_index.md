@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Computational Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,14 @@ organizations:
   url: "https://www.anl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Early-career researcher in large-scale numerical optimization methods with applications in scientific machine learning, plasma physics, Earth systems modeling, and more.
+bio: Early-career computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications
+in artificial intelligence, machine learning, simulation-based design and scientific discovery.
 
 interests:
-- Large-scale Optimization Algorithms
+- Large-scale Optimization Methods
 - Artificial Intelligence & Machine Learning
 - Physics-Informed Neural Networks
-- Scientific & Numerical Software Development
+- High-Performance Numerical Software Development
 
 education:
   courses:
@@ -58,6 +59,8 @@ social:
 
 ---
 
-I am a computational scientist specializing in large-scale nonlinear and constrained optimization algorithms, and I collaborate with domain experts on challenging problems in scientific machine learning, plasma physics, Earth systems modeling and more. I also maintain the Toolkit for Advanced Optimization (TAO) package in [PETSc/TAO](https://petsc.org) and help prepare the library for upcoming exascale computing architectures.
-
-I have recently began to develop stochastic optimization methods in machine learning, specifically for training deep neural networks under nonlinear constraints on network weights and/or outputs. In the future, I hope to apply my research to solve challenging AI/ML problems in aviation and aerospace, renewable energy, climate science, supply chain planning, automated vehicle systems, augmented reality and more.
+I am a computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications
+in artificial intelligence, machine learning, simulation-based design and scientific discovery. I am also a member of the core development
+team for [PETSc/TAO](https://petsc.org), one of the premiere numerical libraries in the US Department of Energy research software portfolio.
+In this capacity, I develop and maintain parallel implementations of optimization algorithms using test-based development and CI/CD workflows
+on heterogeneous high-performance computing systems.

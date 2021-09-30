@@ -18,42 +18,69 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Computational Scientist"
+  company = "Argonne National Laboratory"
+  company_url = "https://www.anl.gov/mcs"
+  location = "Lemont, Illinois"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = """
+  * Research and develop large-scale optimization methods for engineering design and scientific machine learning.
+  * Collaborate with domain experts on challenging applications in plasma physics and Earth systems modeling.
+  * Maintain the Toolkit for Advanced Optimization (TAO) package in the PETSc library.
+  * Prepare the PETSc library for next-generation exascale supercomputer architectures.
+  """
+
+[[experience]]
   title = "Postdoctoral Appointee"
   company = "Argonne National Laboratory"
   company_url = "https://www.anl.gov/mcs"
   location = "Lemont, Illinois"
   date_start = "2018-02-12"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """
-  * Principal developer on Toolkit for Advanced Optimization (TAO) and contributor to PETSc
-  * Research large-scale optimization algorithms with efficient treatment of nonlinear constraints
-  * Promote TAO, expand its user base, and provide software support for external researchers
+  * Developed novel stochastic optimization methods for training deep neural networks under physics constraints.
+  * Extended conjugate gradient, quasi-Newton and Newton optimization methods in the PETSc/TAO library with active-set bound constraints.
+  * Implemented a Python interface for using PETSc/TAO optimization algorithms in PyTorch training workflows.
+  * Spearheaded the transition of PETSc/TAO development to a full CI/CD workflow with a Jenkins prototype.
   """
 
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Research and Teaching Assistant"
   company = "Rensselaer Polytechnic Institute"
   company_url = "https://www.optimaldesignlab.com"
   location = "Troy, New York"
-  date_start = "2013-02-01"
+  date_start = "2012-08-14"
   date_end = "2017-12-31"
   description = """
-  * Investigate PDE-constrained multi-disciplinary design optimization problems
-  * Research gradient-based, reduced-space, matrix-free optimization algorithms
-  * Develop a parallel-agnostic optimization library tailored for large-scale engineering systems
+  * Researched simulation-driven multidisciplinary design optimization problems.
+  * Developed matrix-free optimization library for large-scale engineering design applications.
+  * Integrated parallel, high-fidelity, coupled aero-structural solvers with optimization algorithms via adjoint-based sensitivity analysis.
+  * Served as a grader, proctor, tutor and substitute lecturer for undergraduate-level mechanical and aeronautical engineering courses.
   """
 
 [[experience]]
-  title = "Undergraduate Research Assistant"
+  title = "Undergraduate Researcher & Machinist"
   company = "University of Maryland, Baltimore County"
   company_url = "http://jcet.umbc.edu/"
   location = "Baltimore, Maryland"
   date_start = "2010-10-01"
   date_end = "2011-05-30"
   description = """
-  * Construction of an optical aerosol measurement instrument
-  * Design and manufacture of high-precision optical component mounts
-  * Propose instrument mounting solutions for the NASA GSFC science fleet aircraft
+  * Developed an optical aerosol measurement instrument for deployment on ground and air vehicles.
+  * Designed and manufactured micrometer-tolerance aluminum mounts for optical components.
+  """
+
+[[experience]]
+  title = "Aerodynamic Analysis and Design Intern"
+  company = "Turkish Aerospace Industries"
+  company_url = "https://www.tusas.com/en"
+  location = "Ankara Turkey"
+  date_start = "2009-06-01"
+  date_end = "2009-09-01"
+  description = """
+  * Modeled geometry and generated meshes for A129 Mangusta attack helicopter hardpoints.
+  * Analyzed effects of rotor downwash on fired ordnance using CFD tools.
   """
 
 +++

@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Computational Scientist
+role: AI Application Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: Argonne National Laboratory
-  url: "https://www.anl.gov"
+- name: GraphCore
+  url: "https://graphcore.ai"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Early-career computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications in artificial intelligence, machine learning, simulation-based design and scientific discovery.
+bio: Computational scientist specializing on large-scale gradient-based optimization algorithms, their high-performance implementation on heterogeneous computing architectures, and their applications to artificial intelligence and machine learning problems.
 
 interests:
 - Simulation-based Optimization
@@ -42,10 +42,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adener@anl.gov'  # For a direct email link, use "mailto:test@example.org".
-- icon: gitlab
+  link: 'mailto:alpd@graphcore.ai'  # For a direct email link, use "mailto:test@example.org".
+- icon: github
   icon_pack: fab
-  link: https://gitlab.com/adener
+  link: https://github.com/denera
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iPoGD0AAAAAJ&hl=en
@@ -58,4 +58,4 @@ social:
 
 ---
 
-I am a computational scientist specializing on gradient-based and constrained numerical optimization methods for large-scale applications in artificial intelligence, machine learning, simulation-based design and scientific discovery. I am also a member of the core development team for [PETSc/TAO](https://petsc.org), one of the premiere numerical libraries in the US Department of Energy research software portfolio. In this capacity, I develop and maintain parallel implementations of optimization algorithms using test-based development and CI/CD workflows on heterogeneous high-performance computing systems.
+I am a computational scientist specializing on alrge-scale gradient-based optimization algorithms, their high-performance implementations on heterogeneous computing architectures, and their applications to artificial intelligence and machine learning problems. I currently work as an AI Application Specialist at [GraphCore](https://graphcore.ai) where I help customers solve challenging ML problems using GraphCore IPUs and optimize the poplar SDK stack to improve IPU perfomance on MLPerf benchmark problems.

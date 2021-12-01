@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. S. Chang on Alp Dener</title>
+    <link>http://alp.dener.me/authors/c.-s.-chang/</link>
+    <description>Recent content in C. S. Chang on Alp Dener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Alp Dener.</copyright>
+    <lastBuildDate>Mon, 01 Mar 2021 16:35:00 -0800</lastBuildDate><atom:link href="http://alp.dener.me/authors/c.-s.-chang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toward Constrained Optimization in Machine Learning: An Error-Tolerant Multisecant Method for Training PINNs</title>
+      <link>http://alp.dener.me/talk/siam-cse21/</link>
+      <pubDate>Mon, 01 Mar 2021 16:35:00 -0800</pubDate>
+      
+      <guid>http://alp.dener.me/talk/siam-cse21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

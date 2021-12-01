@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Denchfield on Alp Dener</title>
+    <link>http://alp.dener.me/authors/adam-denchfield/</link>
+    <description>Recent content in Adam Denchfield on Alp Dener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Alp Dener.</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://alp.dener.me/authors/adam-denchfield/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preconditioning Nonlinear Conjugate Gradient with Diagonalized Quasi-Newton</title>
+      <link>http://alp.dener.me/publication/cgprecond/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/cgprecond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acelerating Quasi-Newton and Conjugate Gradient Convergence for Large-Scale Optimization</title>
+      <link>http://alp.dener.me/talk/siam-cse19/</link>
+      <pubDate>Mon, 25 Feb 2019 16:10:00 -0800</pubDate>
+      
+      <guid>http://alp.dener.me/talk/siam-cse19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

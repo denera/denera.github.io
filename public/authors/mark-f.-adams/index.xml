@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark F. Adams on Alp Dener</title>
+    <link>http://alp.dener.me/authors/mark-f.-adams/</link>
+    <description>Recent content in Mark F. Adams on Alp Dener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Alp Dener.</copyright>
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://alp.dener.me/authors/mark-f.-adams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toward Performance-Portable PETSc for GPU-based Exascale Systems</title>
+      <link>http://alp.dener.me/publication/petscgpu/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/petscgpu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

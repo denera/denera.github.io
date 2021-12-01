@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason E. Hicken on Alp Dener</title>
+    <link>http://alp.dener.me/authors/jason-e.-hicken/</link>
+    <description>Recent content in Jason E. Hicken on Alp Dener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Alp Dener.</copyright>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://alp.dener.me/authors/jason-e.-hicken/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enabling Modular Aerostructural Optimization: Individual Discipline Feasible without the Jacobians</title>
+      <link>http://alp.dener.me/publication/aerostruct/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/aerostruct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error-tolerant Multisecant Method for Nonlinearly Constrained Optimization</title>
+      <link>http://alp.dener.me/publication/multisecant/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/multisecant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix-free algorithm for the optimization of multidisciplinary systems</title>
+      <link>http://alp.dener.me/publication/matfree/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/matfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kona: A Parallel Optimization Library for Engineering-Design Problems</title>
+      <link>http://alp.dener.me/publication/kona/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/kona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Flexible Iterative Solver for Nonconvex, Equality-Constrained Quadratic Subproblems</title>
+      <link>http://alp.dener.me/publication/flecs/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/flecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of inexact- and Quasi-Newton Algorithms for Aerodynamic Shape Optimization</title>
+      <link>http://alp.dener.me/publication/aso/</link>
+      <pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/aso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Individual Discipline Feasible using matrix-free Inexact-Newton-Krylov</title>
+      <link>http://alp.dener.me/publication/idf/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://alp.dener.me/publication/idf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

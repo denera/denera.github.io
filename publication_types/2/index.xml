@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 | Alp Dener</title><link>http://alp.dener.me/publication_types/2/</link><atom:link href="http://alp.dener.me/publication_types/2/index.xml" rel="self" type="application/rss+xml"/><description>2</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Alp Dener.</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate><image><url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>2</title><link>http://alp.dener.me/publication_types/2/</link></image><item><title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title><link>http://alp.dener.me/publication/xgcml/</link><pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/xgcml/</guid><description/></item><item><title>Matrix-free algorithm for the optimization of multidisciplinary systems</title><link>http://alp.dener.me/publication/matfree/</link><pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/matfree/</guid><description/></item><item><title>A Flexible Iterative Solver for Nonconvex, Equality-Constrained Quadratic Subproblems</title><link>http://alp.dener.me/publication/flecs/</link><pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/flecs/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Alp Dener</title>
+    <link>http://alp.dener.me/publication_types/2/</link>
+      <atom:link href="http://alp.dener.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Alp Dener.</copyright><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>http://alp.dener.me/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Multirate partitioned Runge–Kutta methods for coupled Navier–Stokes equations (submitted)</title>
+      <link>http://alp.dener.me/publication/multiratens/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/multiratens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title>
+      <link>http://alp.dener.me/publication/xgcml/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/xgcml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix-free algorithm for the optimization of multidisciplinary systems</title>
+      <link>http://alp.dener.me/publication/matfree/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/matfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Flexible Iterative Solver for Nonconvex, Equality-Constrained Quadratic Subproblems</title>
+      <link>http://alp.dener.me/publication/flecs/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/flecs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

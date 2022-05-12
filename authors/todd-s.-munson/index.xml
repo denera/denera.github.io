@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Todd S. Munson | Alp Dener</title><link>http://alp.dener.me/authors/todd-s.-munson/</link><atom:link href="http://alp.dener.me/authors/todd-s.-munson/index.xml" rel="self" type="application/rss+xml"/><description>Todd S. Munson</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Alp Dener.</copyright><lastBuildDate>Mon, 01 Mar 2021 16:35:00 -0800</lastBuildDate><image><url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Todd S. Munson</title><link>http://alp.dener.me/authors/todd-s.-munson/</link></image><item><title>Toward Constrained Optimization in Machine Learning: An Error-Tolerant Multisecant Method for Training PINNs</title><link>http://alp.dener.me/talk/siam-cse21/</link><pubDate>Mon, 01 Mar 2021 16:35:00 -0800</pubDate><guid>http://alp.dener.me/talk/siam-cse21/</guid><description/></item><item><title>Training neural networks under physical constraints using a stochastic augmented Lagrangian approach</title><link>http://alp.dener.me/publication/stochauglag/</link><pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/stochauglag/</guid><description/></item><item><title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title><link>http://alp.dener.me/publication/xgcml/</link><pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/xgcml/</guid><description/></item><item><title>Preconditioning Nonlinear Conjugate Gradient with Diagonalized Quasi-Newton</title><link>http://alp.dener.me/publication/cgprecond/</link><pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/cgprecond/</guid><description/></item><item><title>Accelerating Limited-Memory Quasi-Newton Convergence for Large-Scale Optimization</title><link>http://alp.dener.me/publication/qnaccel/</link><pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/qnaccel/</guid><description/></item><item><title>Acelerating Quasi-Newton and Conjugate Gradient Convergence for Large-Scale Optimization</title><link>http://alp.dener.me/talk/siam-cse19/</link><pubDate>Mon, 25 Feb 2019 16:10:00 -0800</pubDate><guid>http://alp.dener.me/talk/siam-cse19/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todd S. Munson | Alp Dener</title>
+    <link>http://alp.dener.me/authors/todd-s.-munson/</link>
+      <atom:link href="http://alp.dener.me/authors/todd-s.-munson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Todd S. Munson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Alp Dener.</copyright><lastBuildDate>Mon, 01 Mar 2021 16:35:00 -0800</lastBuildDate>
+    <image>
+      <url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Todd S. Munson</title>
+      <link>http://alp.dener.me/authors/todd-s.-munson/</link>
+    </image>
+    
+    <item>
+      <title>Toward Constrained Optimization in Machine Learning: An Error-Tolerant Multisecant Method for Training PINNs</title>
+      <link>http://alp.dener.me/talk/siam-cse21/</link>
+      <pubDate>Mon, 01 Mar 2021 16:35:00 -0800</pubDate>
+      <guid>http://alp.dener.me/talk/siam-cse21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training neural networks under physical constraints using a stochastic augmented Lagrangian approach</title>
+      <link>http://alp.dener.me/publication/stochauglag/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/stochauglag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title>
+      <link>http://alp.dener.me/publication/xgcml/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/xgcml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preconditioning Nonlinear Conjugate Gradient with Diagonalized Quasi-Newton</title>
+      <link>http://alp.dener.me/publication/cgprecond/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/cgprecond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Limited-Memory Quasi-Newton Convergence for Large-Scale Optimization</title>
+      <link>http://alp.dener.me/publication/qnaccel/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/qnaccel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acelerating Quasi-Newton and Conjugate Gradient Convergence for Large-Scale Optimization</title>
+      <link>http://alp.dener.me/talk/siam-cse19/</link>
+      <pubDate>Mon, 25 Feb 2019 16:10:00 -0800</pubDate>
+      <guid>http://alp.dener.me/talk/siam-cse19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Choong-Seock Chang | Alp Dener</title><link>http://alp.dener.me/authors/choong-seock-chang/</link><atom:link href="http://alp.dener.me/authors/choong-seock-chang/index.xml" rel="self" type="application/rss+xml"/><description>Choong-Seock Chang</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Alp Dener.</copyright><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><image><url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Choong-Seock Chang</title><link>http://alp.dener.me/authors/choong-seock-chang/</link></image><item><title>Training neural networks under physical constraints using a stochastic augmented Lagrangian approach</title><link>http://alp.dener.me/publication/stochauglag/</link><pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/stochauglag/</guid><description/></item><item><title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title><link>http://alp.dener.me/publication/xgcml/</link><pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/xgcml/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Choong-Seock Chang | Alp Dener</title>
+    <link>http://alp.dener.me/authors/choong-seock-chang/</link>
+      <atom:link href="http://alp.dener.me/authors/choong-seock-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Choong-Seock Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Alp Dener.</copyright><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Choong-Seock Chang</title>
+      <link>http://alp.dener.me/authors/choong-seock-chang/</link>
+    </image>
+    
+    <item>
+      <title>Training neural networks under physical constraints using a stochastic augmented Lagrangian approach</title>
+      <link>http://alp.dener.me/publication/stochauglag/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/stochauglag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title>
+      <link>http://alp.dener.me/publication/xgcml/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/xgcml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

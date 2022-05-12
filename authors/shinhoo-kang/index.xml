@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shinhoo Kang | Alp Dener</title><link>http://alp.dener.me/authors/shinhoo-kang/</link><atom:link href="http://alp.dener.me/authors/shinhoo-kang/index.xml" rel="self" type="application/rss+xml"/><description>Shinhoo Kang</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Alp Dener.</copyright><lastBuildDate>Mon, 13 Dec 2021 16:10:00 -0800</lastBuildDate><image><url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Shinhoo Kang</title><link>http://alp.dener.me/authors/shinhoo-kang/</link></image><item><title>Implicit-Explicit and Multirate methods for a Coupled Navier-Stokes Equations</title><link>http://alp.dener.me/talk/agu-fall2021/</link><pubDate>Mon, 13 Dec 2021 16:10:00 -0800</pubDate><guid>http://alp.dener.me/talk/agu-fall2021/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shinhoo Kang | Alp Dener</title>
+    <link>http://alp.dener.me/authors/shinhoo-kang/</link>
+      <atom:link href="http://alp.dener.me/authors/shinhoo-kang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shinhoo Kang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Alp Dener.</copyright><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shinhoo Kang</title>
+      <link>http://alp.dener.me/authors/shinhoo-kang/</link>
+    </image>
+    
+    <item>
+      <title>Multirate partitioned Runge–Kutta methods for coupled Navier–Stokes equations (submitted)</title>
+      <link>http://alp.dener.me/publication/multiratens/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/multiratens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit-Explicit and Multirate methods for a Coupled Navier-Stokes Equations</title>
+      <link>http://alp.dener.me/talk/agu-fall2021/</link>
+      <pubDate>Mon, 13 Dec 2021 16:10:00 -0800</pubDate>
+      <guid>http://alp.dener.me/talk/agu-fall2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

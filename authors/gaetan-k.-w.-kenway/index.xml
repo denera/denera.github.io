@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gaetan K. W. Kenway | Alp Dener</title><link>http://alp.dener.me/authors/gaetan-k.-w.-kenway/</link><atom:link href="http://alp.dener.me/authors/gaetan-k.-w.-kenway/index.xml" rel="self" type="application/rss+xml"/><description>Gaetan K. W. Kenway</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2021 Alp Dener.</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate><image><url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Gaetan K. W. Kenway</title><link>http://alp.dener.me/authors/gaetan-k.-w.-kenway/</link></image><item><title>Enabling Modular Aerostructural Optimization: Individual Discipline Feasible without the Jacobians</title><link>http://alp.dener.me/publication/aerostruct/</link><pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/aerostruct/</guid><description/></item><item><title>Comparison of inexact- and Quasi-Newton Algorithms for Aerodynamic Shape Optimization</title><link>http://alp.dener.me/publication/aso/</link><pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate><guid>http://alp.dener.me/publication/aso/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaetan K. W. Kenway | Alp Dener</title>
+    <link>http://alp.dener.me/authors/gaetan-k.-w.-kenway/</link>
+      <atom:link href="http://alp.dener.me/authors/gaetan-k.-w.-kenway/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gaetan K. W. Kenway</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Alp Dener.</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Gaetan K. W. Kenway</title>
+      <link>http://alp.dener.me/authors/gaetan-k.-w.-kenway/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Modular Aerostructural Optimization: Individual Discipline Feasible without the Jacobians</title>
+      <link>http://alp.dener.me/publication/aerostruct/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/aerostruct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of inexact- and Quasi-Newton Algorithms for Aerodynamic Shape Optimization</title>
+      <link>http://alp.dener.me/publication/aso/</link>
+      <pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://alp.dener.me/publication/aso/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

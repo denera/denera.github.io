@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Training neural networks under physical constraints using a stochastic augmented Lagrangian approach</title>
-      <link>http://alp.dener.me/publication/stochauglag/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://alp.dener.me/publication/stochauglag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Error-tolerant Multisecant Method for Nonlinearly Constrained Optimization</title>
       <link>http://alp.dener.me/publication/multisecant/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>

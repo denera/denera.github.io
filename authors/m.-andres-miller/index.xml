@@ -5,28 +5,12 @@
     <link>http://alp.dener.me/authors/m.-andres-miller/</link>
       <atom:link href="http://alp.dener.me/authors/m.-andres-miller/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Andres Miller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Alp Dener.</copyright><lastBuildDate>Mon, 01 Mar 2021 16:35:00 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Alp Dener.</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://alp.dener.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>M. Andres Miller</title>
       <link>http://alp.dener.me/authors/m.-andres-miller/</link>
     </image>
-    
-    <item>
-      <title>Toward Constrained Optimization in Machine Learning: An Error-Tolerant Multisecant Method for Training PINNs</title>
-      <link>http://alp.dener.me/talk/siam-cse21/</link>
-      <pubDate>Mon, 01 Mar 2021 16:35:00 -0800</pubDate>
-      <guid>http://alp.dener.me/talk/siam-cse21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training neural networks under physical constraints using a stochastic augmented Lagrangian approach</title>
-      <link>http://alp.dener.me/publication/stochauglag/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://alp.dener.me/publication/stochauglag/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title>

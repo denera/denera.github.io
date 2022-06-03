@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>Training neural networks under physical constraints using a stochastic augmented Lagrangian approach</title>
-      <link>http://alp.dener.me/publication/stochauglag/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://alp.dener.me/publication/stochauglag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Encoder-decoder neural network for solving the nonlinear Fokker-Planck-Landau collision operator in XGC</title>
       <link>http://alp.dener.me/publication/xgcml/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
